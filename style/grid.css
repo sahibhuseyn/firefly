@@ -14,7 +14,7 @@ body {
     width: 100%;
 }
 
-.row::after {
+.row:after {
     content: "";
     clear: both;
 }
